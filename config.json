@@ -1,5 +1,5 @@
 {
-    "name":"Shadow",
+    "name":"Shadow The Hedgehog",
     "font":"LTWaveAlt-Regular.otf",
     "fontascii":"LTWaveAlt-Regular.otf",
     "fontsize":{
@@ -35,4 +35,4 @@
         "highlight_color1":"#FFFFFFFF",
         "shadow_color1":"#FF000000"
     }
-} 
+}
